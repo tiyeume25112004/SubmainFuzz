@@ -1,6 +1,7 @@
 #!/bin/bash
 
 help(){
+    echo -e "Hello Guys, im Kon-chan UwU"
     echo -e "[Usage]:"
     echo -e "\t$ ~/subdomain.sh DOMAIN"
 }
